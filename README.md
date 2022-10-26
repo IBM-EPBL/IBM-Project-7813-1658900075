@@ -1,2 +1,2 @@
-# IBM-Project-7813-1658900075
-Fertilizers Recommendation System For Disease Prediction
+Data set link: 
+https://drive.google.com/file/d/1aThXarP8_WeUsBXOxUwFEjcMDMpl_rtB/view?usp=sharing
